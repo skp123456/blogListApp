@@ -1,0 +1,33 @@
+.blog-item-container {
+  background-color: #ffffff;
+  min-width: 700px;
+  margin-bottom: 16px;
+  list-style-type: none;
+}
+
+.blog-content-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.blog-title {
+  color: #12022f;
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.description {
+  color: #9aa5b1;
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.time {
+  color: #9aa5b1;
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: 600;
+}
